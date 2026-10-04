@@ -1,6 +1,6 @@
 ## Muazu Isah
 
-Cloud Solution Architect at Microsoft. I work with enterprise customers on Azure platform architecture — mostly AI platform engineering, API management, and the cost-governance problems that surface once AI workloads stop being pilots and start carrying real traffic.
+Cloud Solution Architect at Microsoft. I work with enterprise customers on Azure platform architecture — mostly Azure and AI platform engineering, API management, and the cost-governance problems that surface once AI workloads stop being pilots and start carrying real traffic.
 
 What I publish here is the reusable half of that work: the patterns that held up across more than one engagement, written down so the next team starts further along than the last one did.
 
