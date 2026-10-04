@@ -10,7 +10,7 @@ What I publish here is the reusable half of that work: the patterns that held up
 
 ### Current work
 
-**[foundry-ai-gateway-accelerator](https://github.com/zuman88/foundry-ai-gateway-accelerator)** — Production-grade Terraform for running Azure API Management as a centralised AI Gateway in front of Microsoft Foundry models, with optional per-application cost attribution and chargeback.
+**[azure-ai-gateway-cost-attribution](https://github.com/zuman88/azure-ai-gateway-cost-attribution)** — Production-grade Terraform for running Azure API Management as a centralised AI Gateway in front of Microsoft Foundry models, with optional per-application cost attribution and chargeback.
 
 It addresses three problems that recur on nearly every engagement:
 
