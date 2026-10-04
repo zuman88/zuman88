@@ -24,4 +24,4 @@ Includes architecture documentation, eight architecture decision records explain
 
 ### Interests
 
-Centralised AI gateways · Azure API Management policy engineering · FinOps and chargeback for AI workloads · Terraform module design · Identity-based access over shared secrets
+Centralised AI gateways · Azure API Management policy engineering · Azure Infrastructure Architecture . DevOps and Automation . FinOps and chargeback for AI workloads · Terraform module design · Identity-based access over shared secrets
